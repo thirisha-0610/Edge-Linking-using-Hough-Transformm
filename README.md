@@ -28,7 +28,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image = cv2.imread('EXP_7.jpg')
+image = cv2.imread('dog cat.jpg')
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))  
 plt.title("Input Image")
