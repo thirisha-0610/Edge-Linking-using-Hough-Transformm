@@ -50,18 +50,17 @@ plt.axis('off')
 ```
 
 ### Input image and grayscale image
-<img width="378" height="455" alt="495634597-0085386f-baf6-436f-8d81-d9db0802ef87" src="https://github.com/user-attachments/assets/2be8dd56-a4e5-4c2d-96dd-6c9a8368db6d" />
+<img width="376" height="366" alt="image" src="https://github.com/user-attachments/assets/2a33e70c-b47c-425b-8905-42068c9e6493" />
 
-<img width="358" height="444" alt="495634699-ac7b8dee-c34e-46b2-9029-6b909b26cd24" src="https://github.com/user-attachments/assets/25489deb-933f-4291-bc4a-0cb7bcc2f5c3" />
+<img width="364" height="377" alt="image" src="https://github.com/user-attachments/assets/fe9cde63-bfd1-4568-9286-1268f2370bcf" />
 
 
 ### Canny Edge detector output
 
-<img width="343" height="448" alt="495634806-27a0323c-b554-40cd-8104-bb6d0322ed43" src="https://github.com/user-attachments/assets/3043d6f9-ece8-4ef1-b7e1-ea2f77a4918c" />
+<img width="371" height="383" alt="image" src="https://github.com/user-attachments/assets/d1b7ec42-a7af-4ea7-a13f-622fb452902a" />
 
 ### Display the result of Hough transform
-
-<img width="381" height="453" alt="495634922-4a79ec95-e8f3-4bc5-9c7d-97a7d5997363" src="https://github.com/user-attachments/assets/fe8820ff-5701-41fa-bf4e-231f7514d4bf" />
+<img width="382" height="378" alt="image" src="https://github.com/user-attachments/assets/13a878c1-0899-4d48-91d3-890a548e8598" />
 
 ### RESULT:
 Thus the program for Edge-Linking-using-Hough-Transform was executed successfully.
